@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.qml</file>
+        <file>LoginForm.ui.qml</file>
+        <file>ChatView.qml</file>
+        <file>ChatViewForm.ui.qml</file>
+        <file>Presentation.qml</file>
+        <file>PresentationForm.ui.qml</file>
+    </qresource>
+</RCC>
